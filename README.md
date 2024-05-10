@@ -1,2 +1,2 @@
 # MartesRFLP
-Code for Marten ENMs
+Code and data for Martes RFLP ENM paper.
